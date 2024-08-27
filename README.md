@@ -16,10 +16,7 @@ Before running the program, ensure you have the following installed:
 - **MySQL Server**
 - **Python packages**: `mysql-connector-python`, `cryptography`
 
-You can install the required Python packages using pip:
-
-```bash
-pip install mysql-connector-python cryptography
+You can install the required Python packages using pip:   pip install mysql-connector-python cryptography 
 
 ## Sample Workflow
 
